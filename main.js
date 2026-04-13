@@ -19,6 +19,6 @@ function move(type){
   }
 }
 
-function nextTurn() {
+function nextTurn(){
   document.getElementById("testarea").hidden = false;
 }
