@@ -20,5 +20,5 @@ function move(type){
 }
 
 function nextTurn() {
-  document.getElementById("testarea").hidden = true;
+  document.getElementById("testarea").hidden = false;
 }
